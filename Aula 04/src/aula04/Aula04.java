@@ -18,5 +18,4 @@ public class Aula04 {
 e chamar este método na main. c1 chamei por System.out.print e c2 chamei pelo metodo status()*/
     }
    
-    
 }
